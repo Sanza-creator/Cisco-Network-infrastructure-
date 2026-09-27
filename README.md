@@ -22,8 +22,6 @@ Nexus Logistics, a regional shipping firm, was running on a flat, unsegmented La
 ### Skills demonstrated
 `OSPF (multi-area)` · `VLSM subnetting` · `VLANs & inter-VLAN routing (SVIs)` · `RSTP/EtherChannel` · `ACLs` · `Port security` · `Three-layer hierarchical design` · `IPsec VPN concepts`
 
-### Screenshots
-`[Insert: full topology, OSPF neighbor output, VLAN/trunk config, port security verification, failover test]`
 
 ---
 
